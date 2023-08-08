@@ -1,9 +1,9 @@
-# iamrich
+# iamrich Basic android and IOS app
 
-A new Flutter project.
+My first Flutter project.
 
 ## Getting Started
-
+ 
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
